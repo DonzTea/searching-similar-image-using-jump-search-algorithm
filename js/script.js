@@ -1,0 +1,2 @@
+gallery.init();
+input.init();

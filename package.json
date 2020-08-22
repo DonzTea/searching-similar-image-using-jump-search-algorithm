@@ -1,0 +1,20 @@
+{
+  "name": "searching-similar-image-using-jump-search-algorithm",
+  "version": "1.0.0",
+  "description": "Implementation of jump search algorithm in the case of searching image using ES5 syntax.",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Doni Rahma Tiana",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "bootstrap-4-grid": "^3.4.0",
+    "file-upload-with-preview": "^4.0.8",
+    "resemblejs": "^3.2.5"
+  }
+}
